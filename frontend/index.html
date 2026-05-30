@@ -9,38 +9,100 @@
   <body>
     <aside class="sidebar">
       <div class="brand">
-        <div class="brand-mark">GD</div>
+        <img class="bosch-logo" src="./assets/bosch-logo.webp" alt="Bosch" />
         <div>
-          <h1>GDPR Discovery</h1>
-          <p>Bosch hackathon prototype</p>
+          <h1>GDPR Compliance</h1>
+          <p>TECHON prototype</p>
         </div>
       </div>
       <nav class="nav">
-        <button class="nav-item active" data-view="dashboard">Dashboard</button>
-        <button class="nav-item" data-view="findings">Findings</button>
-        <button class="nav-item" data-view="review">My Review</button>
+        <button class="nav-item active" data-view="dashboard">Admin Overview</button>
+        <button class="nav-item" data-view="findings">Compliance Queue</button>
+        <button class="nav-item" data-view="review">Employee Review</button>
       </nav>
-      <div class="sidebar-note">
-        <span>Human review required</span>
-        <strong>AI suggests. People decide.</strong>
-      </div>
     </aside>
 
     <main class="main">
       <header class="topbar">
         <div>
           <p class="eyebrow">Automated GDPR compliance</p>
-          <h2 id="page-title">Admin Dashboard</h2>
-        </div>
-        <div class="scan-status">
-          <span class="pulse"></span>
-          Delta scan ready
+          <h2 id="page-title">Admin Overview</h2>
         </div>
       </header>
 
       <section id="dashboard-view" class="view active">
+        <section class="scan-panel">
+          <div class="scan-copy">
+            <p class="eyebrow">Scan pipeline</p>
+            <h3>Full scan completed on sample data sources</h3>
+            <p>
+              The prototype extracts text, classifies Presidio entities, assigns responsible owners, and keeps review decisions separate from AI findings.
+            </p>
+          </div>
+          <div class="scan-steps">
+            <div class="scan-step done">
+              <span>1</span>
+              <strong>Connect source</strong>
+              <p>OneDrive, SharePoint, shared drives</p>
+            </div>
+            <div class="scan-step done">
+              <span>2</span>
+              <strong>Full scan</strong>
+              <p>All files processed</p>
+            </div>
+            <div class="scan-step done">
+              <span>3</span>
+              <strong>Classify</strong>
+              <p>Presidio labels mapped</p>
+            </div>
+            <div class="scan-step done">
+              <span>4</span>
+              <strong>Assign owner</strong>
+              <p>Responsible review queue</p>
+            </div>
+            <div class="scan-step active-step">
+              <span>5</span>
+              <strong>Human review</strong>
+              <p>Owner final decision</p>
+            </div>
+            <div class="scan-step">
+              <span>6</span>
+              <strong>Delta scan</strong>
+              <p>Modified files only</p>
+            </div>
+          </div>
+        </section>
         <div class="kpi-grid" id="kpi-grid"></div>
         <div class="content-grid">
+          <section class="panel">
+            <div class="panel-header">
+              <h3>Scan Control</h3>
+              <span>Demo mode</span>
+            </div>
+            <div class="scan-control">
+              <div>
+                <span>Current mode</span>
+                <strong>Full scan</strong>
+              </div>
+              <div>
+                <span>Last scan</span>
+                <strong>2026-05-30 15:30</strong>
+              </div>
+              <div>
+                <span>Delta logic</span>
+                <strong>Modified files only</strong>
+              </div>
+              <div>
+                <span>Reproducibility</span>
+                <strong>Fixed config + stable IDs</strong>
+              </div>
+            </div>
+            <div class="scan-actions">
+              <button id="delta-scan-button" type="button">Run delta scan</button>
+              <button id="export-button" type="button">Export findings</button>
+            </div>
+            <div id="scan-message" class="scan-message">Same input and config produce the same result JSON.</div>
+          </section>
           <section class="panel">
             <div class="panel-header">
               <h3>Findings by Entity</h3>
@@ -50,10 +112,10 @@
           </section>
           <section class="panel">
             <div class="panel-header">
-              <h3>Document Type Balance</h3>
-              <span>100 files each</span>
+              <h3>Scanned Sources</h3>
+              <span>Distributed data landscape</span>
             </div>
-            <div id="type-bars" class="bars"></div>
+            <div id="source-bars" class="bars"></div>
           </section>
           <section class="panel wide">
             <div class="panel-header">
@@ -66,6 +128,10 @@
       </section>
 
       <section id="findings-view" class="view">
+        <div class="role-note">
+          <strong>Admin view</strong>
+          <span>Compliance teams can inspect all flagged files, filter by owner or entity, and monitor review progress before owners take action.</span>
+        </div>
         <div class="filters">
           <input id="search-input" type="search" placeholder="Search file, owner, entity..." />
           <select id="type-filter">
@@ -101,6 +167,10 @@
       </section>
 
       <section id="review-view" class="view">
+        <div class="role-note">
+          <strong>Employee view</strong>
+          <span>Employees only review files assigned to their responsible owner queue and make the final decision.</span>
+        </div>
         <div class="review-layout">
           <section class="review-list">
             <div class="panel-header compact">
