@@ -26,7 +26,7 @@ def list_findings(risk_level: str = None, db: Session = Depends(get_db)):
             "last_modified_date": f.file.last_modified or "Unknown",
             "contains_personal_data": "yes" if pii_types else "no",
             "full_text":         f.reason or "",
-            "retention_period_exceeded_3y": "no",
+            "retention_period_exceeded_3y": "yes" if f.file.last_modified and (datetime.utcnow() - datetime.strptime(f.file.last_modified[:10], "%Y-%m-%d")).days > 3*365 else "no",
             "PERSON_yes_no":          "yes" if "PERSON" in pii_types else "no",
             "EMAIL_ADDRESS_yes_no":   "yes" if "EMAIL_ADDRESS" in pii_types else "no",
             "PHONE_NUMBER_yes_no":    "yes" if "PHONE_NUMBER" in pii_types else "no",
