@@ -17,7 +17,7 @@
       </div>
       <nav class="nav">
         <button class="nav-item active" data-view="dashboard">Admin Overview</button>
-        <button class="nav-item" data-view="findings">Admin Findings</button>
+        <button class="nav-item" data-view="findings">Compliance Queue</button>
         <button class="nav-item" data-view="review">Employee Review</button>
       </nav>
     </aside>
@@ -42,23 +42,33 @@
           <div class="scan-steps">
             <div class="scan-step done">
               <span>1</span>
+              <strong>Connect source</strong>
+              <p>OneDrive, SharePoint, shared drives</p>
+            </div>
+            <div class="scan-step done">
+              <span>2</span>
               <strong>Full scan</strong>
               <p>All files processed</p>
             </div>
             <div class="scan-step done">
-              <span>2</span>
+              <span>3</span>
               <strong>Classify</strong>
               <p>Presidio labels mapped</p>
             </div>
             <div class="scan-step done">
-              <span>3</span>
+              <span>4</span>
               <strong>Assign owner</strong>
               <p>Responsible review queue</p>
             </div>
             <div class="scan-step active-step">
-              <span>4</span>
+              <span>5</span>
               <strong>Human review</strong>
               <p>Owner final decision</p>
+            </div>
+            <div class="scan-step">
+              <span>6</span>
+              <strong>Delta scan</strong>
+              <p>Modified files only</p>
             </div>
           </div>
         </section>
@@ -102,10 +112,10 @@
           </section>
           <section class="panel">
             <div class="panel-header">
-              <h3>Document Type Balance</h3>
-              <span>100 files each</span>
+              <h3>Scanned Sources</h3>
+              <span>Distributed data landscape</span>
             </div>
-            <div id="type-bars" class="bars"></div>
+            <div id="source-bars" class="bars"></div>
           </section>
           <section class="panel wide">
             <div class="panel-header">
@@ -120,7 +130,7 @@
       <section id="findings-view" class="view">
         <div class="role-note">
           <strong>Admin view</strong>
-          <span>Compliance teams can inspect all flagged files, filter by owner or entity, and monitor review progress.</span>
+          <span>Compliance teams can inspect all flagged files, filter by owner or entity, and monitor review progress before owners take action.</span>
         </div>
         <div class="filters">
           <input id="search-input" type="search" placeholder="Search file, owner, entity..." />

@@ -50,15 +50,16 @@ function renderKpis() {
   const flagged = findings.length;
   const pending = findings.filter((row) => statusFor(row) === "pending").length;
   const retention = findings.filter((row) => row.retention_period_exceeded_3y === "yes").length;
-  const highRisk = findings.filter((row) => riskFor(row) === "High").length;
+  const totalGb = allRows.reduce((sum, row) => sum + Number(row.file_size_mb || 0), 0) / 1024;
   const kpis = [
     ["Scanned files", scanned],
+    ["Scanned volume", `${totalGb.toFixed(2)} GB`],
     ["Flagged files", flagged],
     ["Finding rate", `${Math.round((flagged / scanned) * 100)}%`],
+    ["Scan progress", "100%"],
+    ["Scan duration", "8s"],
     ["Pending review", pending],
-    ["High risk", highRisk],
     ["Retention exceeded", retention],
-    ["Run mode", "Fixed seed"],
   ];
 
   document.querySelector("#kpi-grid").innerHTML = kpis
@@ -88,10 +89,10 @@ function renderDashboard() {
     .filter(([, value]) => value > 0)
     .sort((a, b) => b[1] - a[1]);
 
-  const typeCounts = Object.entries(countBy(allRows, (row) => row.document_type)).sort((a, b) => a[0].localeCompare(b[0]));
+  const sourceCounts = Object.entries(countBy(allRows, (row) => row.source_system)).sort((a, b) => a[0].localeCompare(b[0]));
 
   renderBars("#entity-bars", entityCounts, findings.length, "#d71920");
-  renderBars("#type-bars", typeCounts, 100, "#1f6feb");
+  renderBars("#source-bars", sourceCounts, allRows.length, "#1f6feb");
 
   const priorityRows = [...findings]
     .sort((a, b) => {
@@ -266,7 +267,7 @@ function bindEvents() {
       document.querySelector(`#${button.dataset.view}-view`).classList.add("active");
       const titles = {
         dashboard: "Admin Overview",
-        findings: "Admin Findings",
+        findings: "Compliance Queue",
         review: "Employee Review",
       };
       document.querySelector("#page-title").textContent = titles[button.dataset.view];
