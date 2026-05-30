@@ -32,3 +32,19 @@ The frontend currently reads static JSON from:
 ```
 
 When the backend is ready, replace `DATA_URL` in `app.js` with the API endpoint that returns the same field structure.
+
+## Deploy online
+
+This repository includes a GitHub Actions workflow at:
+
+```text
+.github/workflows/deploy-frontend.yml
+```
+
+After the changes are pushed to GitHub, enable GitHub Pages with **GitHub Actions** as the source:
+
+```text
+Repository Settings -> Pages -> Build and deployment -> Source: GitHub Actions
+```
+
+The workflow deploys the `frontend` folder as a static website.
