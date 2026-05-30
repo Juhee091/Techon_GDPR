@@ -1,4 +1,4 @@
-const DATA_URL = "http://localhost:8000/findings/";
+const DATA_URL = "https://potential-winner-g46r9975gvwjh96r5-8000.app.github.dev/findings/";
 const ENTITY_COLUMNS = [
   "PERSON",
   "EMAIL_ADDRESS",
