@@ -1,6 +1,6 @@
-# GDPR Frontend Prototype
+# GDPR Compliance Frontend Prototype
 
-This folder contains the hackathon frontend prototype for the GDPR data discovery workflow.
+This folder contains the hackathon frontend prototype for the GDPR compliance and data discovery review workflow.
 
 ## What it shows
 

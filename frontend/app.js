@@ -1,4 +1,4 @@
-const DATA_URL = "./data/gdpr_training_dataset.json";
+const DATA_URL = "http://localhost:8000/findings/";
 const ENTITY_COLUMNS = [
   "PERSON",
   "EMAIL_ADDRESS",
@@ -50,13 +50,15 @@ function renderKpis() {
   const flagged = findings.length;
   const pending = findings.filter((row) => statusFor(row) === "pending").length;
   const retention = findings.filter((row) => row.retention_period_exceeded_3y === "yes").length;
-  const highRisk = findings.filter((row) => riskFor(row) === "High").length;
+  const totalGb = allRows.reduce((sum, row) => sum + Number(row.file_size_mb || 0), 0) / 1024;
   const kpis = [
     ["Scanned files", scanned],
+    ["Scanned volume", `${totalGb.toFixed(2)} GB`],
     ["Flagged files", flagged],
     ["Finding rate", `${Math.round((flagged / scanned) * 100)}%`],
+    ["Scan progress", "100%"],
+    ["Scan duration", "8s"],
     ["Pending review", pending],
-    ["High risk", highRisk],
     ["Retention exceeded", retention],
   ];
 
@@ -87,10 +89,10 @@ function renderDashboard() {
     .filter(([, value]) => value > 0)
     .sort((a, b) => b[1] - a[1]);
 
-  const typeCounts = Object.entries(countBy(allRows, (row) => row.document_type)).sort((a, b) => a[0].localeCompare(b[0]));
+  const sourceCounts = Object.entries(countBy(allRows, (row) => row.source_system)).sort((a, b) => a[0].localeCompare(b[0]));
 
   renderBars("#entity-bars", entityCounts, findings.length, "#d71920");
-  renderBars("#type-bars", typeCounts, 100, "#1f6feb");
+  renderBars("#source-bars", sourceCounts, allRows.length, "#1f6feb");
 
   const priorityRows = [...findings]
     .sort((a, b) => {
@@ -230,6 +232,32 @@ function setStatus(id, status) {
   renderOwnerFiles();
 }
 
+function runDeltaScanDemo() {
+  const modifiedFiles = allRows.filter((row) => row.recommended_split === "test").slice(0, 12);
+  const newFindings = modifiedFiles.filter((row) => row.contains_personal_data === "yes").length;
+  document.querySelector("#scan-message").textContent =
+    `Delta scan demo completed: ${modifiedFiles.length} modified files checked, ${newFindings} findings already reproducible from the stored labels.`;
+}
+
+function exportFindings() {
+  const payload = findings.map((row) => ({
+    document_id: row.document_id,
+    file_name: row.file_name,
+    document_type: row.document_type,
+    owner: row.responsible_owner,
+    status: statusFor(row),
+    entities: entitiesFor(row),
+    retention_period_exceeded_3y: row.retention_period_exceeded_3y,
+  }));
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = "gdpr_findings_export.json";
+  link.click();
+  URL.revokeObjectURL(link.href);
+  document.querySelector("#scan-message").textContent = "Findings export prepared as deterministic JSON.";
+}
+
 function bindEvents() {
   document.querySelectorAll(".nav-item").forEach((button) => {
     button.addEventListener("click", () => {
@@ -237,7 +265,12 @@ function bindEvents() {
       button.classList.add("active");
       document.querySelectorAll(".view").forEach((view) => view.classList.remove("active"));
       document.querySelector(`#${button.dataset.view}-view`).classList.add("active");
-      document.querySelector("#page-title").textContent = button.textContent === "Findings" ? "Findings Workbench" : button.textContent;
+      const titles = {
+        dashboard: "Admin Overview",
+        findings: "Compliance Queue",
+        review: "Employee Review",
+      };
+      document.querySelector("#page-title").textContent = titles[button.dataset.view];
     });
   });
 
@@ -246,6 +279,8 @@ function bindEvents() {
   });
 
   document.querySelector("#owner-select").addEventListener("change", renderOwnerFiles);
+  document.querySelector("#delta-scan-button").addEventListener("click", runDeltaScanDemo);
+  document.querySelector("#export-button").addEventListener("click", exportFindings);
 
   document.addEventListener("click", (event) => {
     const card = event.target.closest(".owner-file, .priority-item");
