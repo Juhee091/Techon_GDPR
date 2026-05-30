@@ -1,0 +1,1403 @@
+file_name,document_type,responsible_owner,type,value,score
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,PERSON,Maria Schmidt,0.85
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,DATE_TIME,07 Feb 2020,0.85
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,PERSON,Maria Schmidt,0.85
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,PERSON,Laura König,0.85
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,DATE_TIME,09 Feb 2020,0.85
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,PHONE_NUMBER,+49 151 2345 7821,0.75
+expense_report_finding_0001.pdf,Expense Report,Anna Keller,URL,maria.sc,0.5
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,IP_ADDRESS,192.168.12.34,0.95
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,PERSON,Elena Fischer,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,DATE_TIME,Mar 2020,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,PERSON,efischer08,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,DATE_TIME,192.168.12.34,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,PERSON,Philipp Neumann,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,DATE_TIME,Mar 2020,0.85
+expense_report_finding_0002.pdf,Expense Report,Maria Schmidt,URL,elena.fi,0.5
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,PERSON,Jonas Keller,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Project Management,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,DATE_TIME,Apr 2020,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,PERSON,Jonas Keller,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,LOCATION,Cologne,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,LOCATION,Germany,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,PERSON,Philipp Neumann,0.85
+expense_report_finding_0003.pdf,Expense Report,Tom Nguyen,DATE_TIME,Apr 2020,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,PERSON,Nina Beck,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,LOCATION,E-20739,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,ORGANIZATION,Project Management,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,DATE_TIME,May 2020,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,PERSON,Nina Beck,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,PERSON,Philipp Neumann,0.85
+expense_report_finding_0004.pdf,Expense Report,Max Wagner,DATE_TIME,30 May 2020,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,PERSON,Maria Schmidt,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,LOCATION,E-20882,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,ORGANIZATION,Project Management,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,DATE_TIME,04 Jul 2020,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,PERSON,Maria Schmidt,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,PERSON,Philipp Neumann,0.85
+expense_report_finding_0005.pdf,Expense Report,Lukas Weber,DATE_TIME,Jul 2020,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,PERSON,Elena Fischer,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,ORGANIZATION,E-20529,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,DATE_TIME,Aug 2020,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,PERSON,Elena Fischer,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Driver's License Number,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,PERSON,Laura König,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,DATE_TIME,Aug 2020,0.85
+expense_report_finding_0006.pdf,Expense Report,Maria Schmidt,PHONE_NUMBER,4409-1182-21,0.75
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,PERSON,Jonas Keller,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,E-20680,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,Sept 2020,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,PERSON,Jonas Keller,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,LOCATION,Bangalore,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,2022-09-03,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,LOCATION,Pune,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,2022-09-07,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,LOCATION,Chennai,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,2022-09-09,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,PERSON,Philipp Neumann,0.85
+expense_report_finding_0007.pdf,Expense Report,Maria Schmidt,DATE_TIME,Sept 2020,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,CREDIT_CARD,3782 822463 10005,1.0
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,PERSON,Nina Beck,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,DATE_TIME,Oct 2020,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,DATE_TIME,"5519
+Billing / Shipping Address: Am Markt 5",0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,LOCATION,Dresden,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,LOCATION,Germany,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Corporate Credit Card,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,PERSON,Laura König,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,DATE_TIME,Oct 2020,0.85
+expense_report_finding_0008.pdf,Expense Report,Jonas Fischer,PHONE_NUMBER,+49 172 3310 5519,0.75
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,PERSON,Maria Schmidt,0.85
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,ORGANIZATION,Project Management,0.85
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,DATE_TIME,Nov 2020,0.85
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,PERSON,Philipp Neumann,0.85
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,DATE_TIME,Dec 2020,0.85
+expense_report_finding_0009.pdf,Expense Report,Max Wagner,URL,maria.sc,0.5
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,Elena Fischer,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,LOCATION,E-20645,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,ORGANIZATION,Project Management,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,Elena Fischer,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,elena dot fischer,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,"E. Fischer
+",0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,Philipp Neumann,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,PERSON,E. Fischer,0.85
+expense_report_finding_0010.pdf,Expense Report,Priya Nair,DATE_TIME,07 Jan 2021,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,PERSON,Jonas Keller,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,DATE_TIME,Feb 2021,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,PERSON,Jonas Keller,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,PERSON,security_camera_still_keller.jpg,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,PERSON,Jonas Keller,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,PERSON,Laura König,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,DATE_TIME,13 Feb 2021,0.85
+expense_report_finding_0011.pdf,Expense Report,Anna Keller,URL,keller.jp,0.5
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,DATE_TIME,1994-02-19,0.95
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,PERSON,Nina Beck,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,ORGANIZATION,E-20459,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,DATE_TIME,Mar 2021,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,PERSON,Nina Beck,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,ORGANIZATION,MED-DE-510483,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,PERSON,Philipp Neumann,0.85
+expense_report_finding_0012.pdf,Expense Report,Jonas Fischer,DATE_TIME,Mar 2021,0.85
+expense_report_clean_0013.pdf,Expense Report,Maria Schmidt,DATE_TIME,Apr 2021,0.85
+expense_report_clean_0013.pdf,Expense Report,Maria Schmidt,DATE_TIME,Apr 2021,0.85
+expense_report_clean_0014.pdf,Expense Report,Noah Becker,DATE_TIME,04 Jun 2021,0.85
+expense_report_clean_0016.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Aug 2021,0.85
+expense_report_clean_0016.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Aug 2021,0.85
+expense_report_clean_0017.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Sept 2021,0.85
+expense_report_clean_0017.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Sept 2021,0.85
+expense_report_clean_0018.pdf,Expense Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0018.pdf,Expense Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0020.pdf,Expense Report,Anna Keller,DATE_TIME,Jan 2022,0.85
+expense_report_clean_0020.pdf,Expense Report,Anna Keller,DATE_TIME,Jan 2022,0.85
+expense_report_clean_0020.pdf,Expense Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0020.pdf,Expense Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0021.pdf,Expense Report,Max Wagner,ORGANIZATION,Project Management,0.85
+expense_report_clean_0021.pdf,Expense Report,Max Wagner,DATE_TIME,Feb 2022,0.85
+expense_report_clean_0021.pdf,Expense Report,Max Wagner,DATE_TIME,Feb 2022,0.85
+expense_report_clean_0021.pdf,Expense Report,Max Wagner,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0021.pdf,Expense Report,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0022.pdf,Expense Report,Maria Schmidt,DATE_TIME,Mar 2022,0.85
+expense_report_clean_0022.pdf,Expense Report,Maria Schmidt,DATE_TIME,Mar 2022,0.85
+expense_report_clean_0024.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0024.pdf,Expense Report,Maria Schmidt,DATE_TIME,07 Jun 2022,0.85
+expense_report_clean_0024.pdf,Expense Report,Maria Schmidt,DATE_TIME,09 Jun 2022,0.85
+expense_report_clean_0026.pdf,Expense Report,Jonas Fischer,DATE_TIME,Aug 2022,0.85
+expense_report_clean_0026.pdf,Expense Report,Jonas Fischer,DATE_TIME,Aug 2022,0.85
+expense_report_clean_0027.pdf,Expense Report,Max Wagner,DATE_TIME,Sept 2022,0.85
+expense_report_clean_0027.pdf,Expense Report,Max Wagner,DATE_TIME,Sept 2022,0.85
+expense_report_clean_0027.pdf,Expense Report,Max Wagner,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0027.pdf,Expense Report,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0029.pdf,Expense Report,Tom Nguyen,DATE_TIME,09 Dec 2022,0.85
+expense_report_clean_0029.pdf,Expense Report,Tom Nguyen,DATE_TIME,Dec 2022,0.85
+expense_report_clean_0031.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0031.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Feb 2023,0.85
+expense_report_clean_0031.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Feb 2023,0.85
+expense_report_clean_0032.pdf,Expense Report,Priya Nair,DATE_TIME,Mar 2023,0.85
+expense_report_clean_0032.pdf,Expense Report,Priya Nair,DATE_TIME,Apr 2023,0.85
+expense_report_clean_0034.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0034.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jun 2023,0.85
+expense_report_clean_0034.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jun 2023,0.85
+expense_report_clean_0035.pdf,Expense Report,Maria Schmidt,DATE_TIME,Jul 2023,0.85
+expense_report_clean_0035.pdf,Expense Report,Maria Schmidt,DATE_TIME,Jul 2023,0.85
+expense_report_clean_0036.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0036.pdf,Expense Report,Maria Schmidt,DATE_TIME,Aug 2023,0.85
+expense_report_clean_0036.pdf,Expense Report,Maria Schmidt,DATE_TIME,Aug 2023,0.85
+expense_report_clean_0038.pdf,Expense Report,Max Wagner,DATE_TIME,07 Nov 2023,0.85
+expense_report_clean_0038.pdf,Expense Report,Max Wagner,DATE_TIME,09 Nov 2023,0.85
+expense_report_clean_0039.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0039.pdf,Expense Report,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0040.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0040.pdf,Expense Report,Maria Schmidt,DATE_TIME,Jan 2024,0.85
+expense_report_clean_0041.pdf,Expense Report,Lukas Weber,DATE_TIME,Feb 2024,0.85
+expense_report_clean_0041.pdf,Expense Report,Lukas Weber,DATE_TIME,Feb 2024,0.85
+expense_report_clean_0042.pdf,Expense Report,Priya Nair,DATE_TIME,03 Apr 2024,0.85
+expense_report_clean_0043.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0043.pdf,Expense Report,Maria Schmidt,DATE_TIME,May 2024,0.85
+expense_report_clean_0043.pdf,Expense Report,Maria Schmidt,DATE_TIME,May 2024,0.85
+expense_report_clean_0043.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0043.pdf,Expense Report,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0044.pdf,Expense Report,Noah Becker,ORGANIZATION,Project Management,0.85
+expense_report_clean_0044.pdf,Expense Report,Noah Becker,DATE_TIME,Jun 2024,0.85
+expense_report_clean_0044.pdf,Expense Report,Noah Becker,DATE_TIME,Jun 2024,0.85
+expense_report_clean_0045.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0045.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jul 2024,0.85
+expense_report_clean_0045.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jul 2024,0.85
+expense_report_clean_0046.pdf,Expense Report,Jonas Fischer,DATE_TIME,Aug 2024,0.85
+expense_report_clean_0046.pdf,Expense Report,Jonas Fischer,DATE_TIME,Aug 2024,0.85
+expense_report_clean_0047.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Project Management,0.85
+expense_report_clean_0047.pdf,Expense Report,Tom Nguyen,DATE_TIME,Oct 2024,0.85
+expense_report_clean_0047.pdf,Expense Report,Tom Nguyen,DATE_TIME,07 Oct 2024,0.85
+expense_report_clean_0047.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0047.pdf,Expense Report,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0048.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0048.pdf,Expense Report,Jonas Fischer,DATE_TIME,11 Nov 2024,0.85
+expense_report_clean_0048.pdf,Expense Report,Jonas Fischer,DATE_TIME,13 Nov 2024,0.85
+expense_report_clean_0049.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Project Management,0.85
+expense_report_clean_0049.pdf,Expense Report,Tom Nguyen,DATE_TIME,Dec 2024,0.85
+expense_report_clean_0049.pdf,Expense Report,Tom Nguyen,DATE_TIME,Dec 2024,0.85
+expense_report_clean_0050.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0050.pdf,Expense Report,Jonas Fischer,DATE_TIME,Jan 2025,0.85
+expense_report_clean_0051.pdf,Expense Report,Noah Becker,ORGANIZATION,Project Management,0.85
+expense_report_clean_0051.pdf,Expense Report,Noah Becker,DATE_TIME,Mar 2025,0.85
+expense_report_clean_0051.pdf,Expense Report,Noah Becker,DATE_TIME,04 Mar 2025,0.85
+expense_report_clean_0052.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0052.pdf,Expense Report,Jonas Fischer,DATE_TIME,Apr 2025,0.85
+expense_report_clean_0052.pdf,Expense Report,Jonas Fischer,DATE_TIME,Apr 2025,0.85
+expense_report_clean_0056.pdf,Expense Report,Max Wagner,DATE_TIME,03 Sept 2025,0.85
+expense_report_clean_0056.pdf,Expense Report,Max Wagner,DATE_TIME,Sept 2025,0.85
+expense_report_clean_0057.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0057.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Oct 2025,0.85
+expense_report_clean_0057.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Oct 2025,0.85
+expense_report_clean_0059.pdf,Expense Report,Priya Nair,DATE_TIME,Dec 2025,0.85
+expense_report_clean_0059.pdf,Expense Report,Priya Nair,DATE_TIME,Dec 2025,0.85
+expense_report_clean_0062.pdf,Expense Report,Priya Nair,ORGANIZATION,Project Management,0.85
+expense_report_clean_0062.pdf,Expense Report,Priya Nair,DATE_TIME,Apr 2026,0.85
+expense_report_clean_0062.pdf,Expense Report,Priya Nair,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0062.pdf,Expense Report,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0063.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0063.pdf,Expense Report,Jonas Fischer,DATE_TIME,Feb 2020,0.85
+expense_report_clean_0063.pdf,Expense Report,Jonas Fischer,DATE_TIME,03 Feb 2020,0.85
+expense_report_clean_0066.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0066.pdf,Expense Report,Maria Schmidt,DATE_TIME,May 2020,0.85
+expense_report_clean_0066.pdf,Expense Report,Maria Schmidt,DATE_TIME,May 2020,0.85
+expense_report_clean_0067.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0067.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jun 2020,0.85
+expense_report_clean_0067.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Jun 2020,0.85
+expense_report_clean_0068.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Signature,0.85
+expense_report_clean_0069.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0069.pdf,Expense Report,Jonas Fischer,DATE_TIME,Sept 2020,0.85
+expense_report_clean_0069.pdf,Expense Report,Jonas Fischer,DATE_TIME,Sept 2020,0.85
+expense_report_clean_0069.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0069.pdf,Expense Report,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0071.pdf,Expense Report,Lukas Weber,ORGANIZATION,Project Management,0.85
+expense_report_clean_0071.pdf,Expense Report,Lukas Weber,DATE_TIME,23 Nov 2020,0.85
+expense_report_clean_0071.pdf,Expense Report,Lukas Weber,DATE_TIME,25 Nov 2020,0.85
+expense_report_clean_0072.pdf,Expense Report,Anna Keller,DATE_TIME,Dec 2020,0.85
+expense_report_clean_0072.pdf,Expense Report,Anna Keller,DATE_TIME,01 Jan 2021,0.85
+expense_report_clean_0073.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0073.pdf,Expense Report,Maria Schmidt,DATE_TIME,05 Feb 2021,0.85
+expense_report_clean_0073.pdf,Expense Report,Maria Schmidt,DATE_TIME,07 Feb 2021,0.85
+expense_report_clean_0074.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Mar 2021,0.85
+expense_report_clean_0074.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Mar 2021,0.85
+expense_report_clean_0075.pdf,Expense Report,Maria Schmidt,ORGANIZATION,Project Management,0.85
+expense_report_clean_0075.pdf,Expense Report,Maria Schmidt,DATE_TIME,Apr 2021,0.85
+expense_report_clean_0075.pdf,Expense Report,Maria Schmidt,DATE_TIME,Apr 2021,0.85
+expense_report_clean_0076.pdf,Expense Report,Lukas Weber,ORGANIZATION,Project Management,0.85
+expense_report_clean_0076.pdf,Expense Report,Lukas Weber,DATE_TIME,May 2021,0.85
+expense_report_clean_0076.pdf,Expense Report,Lukas Weber,DATE_TIME,May 2021,0.85
+expense_report_clean_0078.pdf,Expense Report,Priya Nair,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0078.pdf,Expense Report,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0079.pdf,Expense Report,Priya Nair,ORGANIZATION,Project Management,0.85
+expense_report_clean_0079.pdf,Expense Report,Priya Nair,DATE_TIME,Sept 2021,0.85
+expense_report_clean_0079.pdf,Expense Report,Priya Nair,DATE_TIME,Sept 2021,0.85
+expense_report_clean_0079.pdf,Expense Report,Priya Nair,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0079.pdf,Expense Report,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0080.pdf,Expense Report,Elena Hoffmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0080.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Oct 2021,0.85
+expense_report_clean_0080.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Oct 2021,0.85
+expense_report_clean_0081.pdf,Expense Report,Noah Becker,DATE_TIME,28 Nov 2021,0.85
+expense_report_clean_0081.pdf,Expense Report,Noah Becker,DATE_TIME,30 Nov 2021,0.85
+expense_report_clean_0082.pdf,Expense Report,Tom Nguyen,ORGANIZATION,Project Management,0.85
+expense_report_clean_0082.pdf,Expense Report,Tom Nguyen,DATE_TIME,04 Jan 2022,0.85
+expense_report_clean_0082.pdf,Expense Report,Tom Nguyen,DATE_TIME,06 Jan 2022,0.85
+expense_report_clean_0083.pdf,Expense Report,Anna Keller,ORGANIZATION,Project Management,0.85
+expense_report_clean_0083.pdf,Expense Report,Anna Keller,DATE_TIME,Feb 2022,0.85
+expense_report_clean_0083.pdf,Expense Report,Anna Keller,DATE_TIME,Feb 2022,0.85
+expense_report_clean_0083.pdf,Expense Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0083.pdf,Expense Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0085.pdf,Expense Report,Elena Hoffmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0085.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Apr 2022,0.85
+expense_report_clean_0085.pdf,Expense Report,Elena Hoffmann,DATE_TIME,Apr 2022,0.85
+expense_report_clean_0088.pdf,Expense Report,Noah Becker,ORGANIZATION,Project Management,0.85
+expense_report_clean_0088.pdf,Expense Report,Noah Becker,DATE_TIME,Aug 2022,0.85
+expense_report_clean_0088.pdf,Expense Report,Noah Becker,DATE_TIME,Aug 2022,0.85
+expense_report_clean_0089.pdf,Expense Report,Priya Nair,ORGANIZATION,Project Management,0.85
+expense_report_clean_0089.pdf,Expense Report,Priya Nair,DATE_TIME,Sept 2022,0.85
+expense_report_clean_0089.pdf,Expense Report,Priya Nair,DATE_TIME,Sept 2022,0.85
+expense_report_clean_0090.pdf,Expense Report,Elena Hoffmann,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0090.pdf,Expense Report,Elena Hoffmann,ORGANIZATION,IT Service Desk,0.85
+expense_report_clean_0091.pdf,Expense Report,Jonas Fischer,ORGANIZATION,Project Management,0.85
+expense_report_clean_0091.pdf,Expense Report,Jonas Fischer,DATE_TIME,Dec 2022,0.85
+expense_report_clean_0091.pdf,Expense Report,Jonas Fischer,DATE_TIME,Dec 2022,0.85
+expense_report_clean_0092.pdf,Expense Report,Jonas Fischer,DATE_TIME,09 Jan 2023,0.85
+expense_report_clean_0095.pdf,Expense Report,Sofia Hartmann,ORGANIZATION,Project Management,0.85
+expense_report_clean_0095.pdf,Expense Report,Sofia Hartmann,DATE_TIME,Apr 2023,0.85
+expense_report_clean_0095.pdf,Expense Report,Sofia Hartmann,DATE_TIME,02 May 2023,0.85
+expense_report_clean_0098.pdf,Expense Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+expense_report_clean_0098.pdf,Expense Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,PERSON,Maria Schmidt,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,Department: Compliance & Risk,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,PERSON,Miriam Braun,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,LOCATION,Stuttgart,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,2022-03-11,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,LOCATION,Lyon,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,2022-04-18,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,LOCATION,Milan,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,2022-05-09,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,"MED-DE-440912
+",0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,PERSON,M. Braun,0.85
+it_access_request_finding_0101.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,Dec 2023,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,PERSON,Elena Fischer,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,ORGANIZATION,Department: Compliance & Risk,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,PERSON,Miriam Braun,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,PERSON,elena dot fischer,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,PERSON,M. Braun,0.85
+it_access_request_finding_0102.pdf,IT Access Request,Noah Becker,DATE_TIME,14 Jan 2024,0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,PERSON,Jonas Keller,0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,ORGANIZATION,Department: Compliance & Risk,0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,PERSON,Miriam Braun,0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,PERSON,M. Braun,0.85
+it_access_request_finding_0103.pdf,IT Access Request,Noah Becker,DATE_TIME,20 Feb 2024,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,PERSON,Nina Beck,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,Digital Operations,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,PERSON,Jonas Keller,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,LOCATION,Nuremberg,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,LOCATION,Germany,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,MFA,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,PERSON,J. Keller,0.85
+it_access_request_finding_0104.pdf,IT Access Request,Maria Schmidt,DATE_TIME,Mar 2024,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,PERSON,Maria Schmidt,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Digital Operations,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,PERSON,Jonas Keller,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,MFA,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,PERSON,J. Keller,0.85
+it_access_request_finding_0105.pdf,IT Access Request,Jonas Fischer,DATE_TIME,04 May 2024,0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,PERSON,Elena Fischer,0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,ORGANIZATION,Department: Compliance & Risk,0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,PERSON,Miriam Braun,0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,PERSON,M. Braun,0.85
+it_access_request_finding_0106.pdf,IT Access Request,Priya Nair,DATE_TIME,Jun 2024,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,PERSON,Jonas Keller,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,ORGANIZATION,Digital Operations,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,PERSON,Jonas Keller,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,ORGANIZATION,Driver's License Number:,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,ORGANIZATION,MFA,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,PERSON,J. Keller,0.85
+it_access_request_finding_0107.pdf,IT Access Request,Lukas Weber,DATE_TIME,Jul 2024,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,PERSON,Nina Beck,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,PERSON,Miriam Braun,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,PERSON,Nina Beck,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,ORGANIZATION,"nina.beck@bosch.example
+Health / Accommodation Note",0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,PERSON,M. Braun,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,DATE_TIME,Aug 2024,0.85
+it_access_request_finding_0108.pdf,IT Access Request,Anna Keller,URL,nina.be,0.5
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,PERSON,Maria Schmidt,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,PERSON,Jonas Keller,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,PERSON,Maria Schmidt,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,DATE_TIME,Sept 2024,0.85
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,PHONE_NUMBER,+49 151 2345 7821,0.75
+it_access_request_finding_0109.pdf,IT Access Request,Max Wagner,URL,maria.sc,0.5
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,IP_ADDRESS,192.168.12.34,0.95
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,PERSON,Elena Fischer,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,ORGANIZATION,Digital Operations,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,PERSON,Jonas Keller,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,PERSON,efischer08,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,DATE_TIME,192.168.12.34,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,ORGANIZATION,MFA,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,PERSON,J. Keller,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,DATE_TIME,05 Nov 2024,0.85
+it_access_request_finding_0110.pdf,IT Access Request,Noah Becker,URL,elena.fi,0.5
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,PERSON,Jonas Keller,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,ORGANIZATION,Department: Compliance & Risk,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,PERSON,Miriam Braun,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,PERSON,Jonas Keller,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,LOCATION,Cologne,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,LOCATION,Germany,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,PERSON,M. Braun,0.85
+it_access_request_finding_0111.pdf,IT Access Request,Lukas Weber,DATE_TIME,Dec 2024,0.85
+it_access_request_finding_0112.pdf,IT Access Request,Max Wagner,PERSON,Nina Beck,0.85
+it_access_request_finding_0112.pdf,IT Access Request,Max Wagner,PERSON,Miriam Braun,0.85
+it_access_request_finding_0112.pdf,IT Access Request,Max Wagner,PERSON,Nina Beck,0.85
+it_access_request_finding_0112.pdf,IT Access Request,Max Wagner,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_finding_0112.pdf,IT Access Request,Max Wagner,PERSON,M. Braun,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,MFA,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,PERSON,J. Keller,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,DATE_TIME,09 May 2025,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0115.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0117.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0117.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,MFA,0.85
+it_access_request_clean_0117.pdf,IT Access Request,Elena Hoffmann,PERSON,J. Keller,0.85
+it_access_request_clean_0117.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Jul 2025,0.85
+it_access_request_clean_0118.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0118.pdf,IT Access Request,Elena Hoffmann,PERSON,M. Braun,0.85
+it_access_request_clean_0118.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Aug 2025,0.85
+it_access_request_clean_0119.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0119.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_clean_0119.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_clean_0119.pdf,IT Access Request,Max Wagner,DATE_TIME,04 Oct 2025,0.85
+it_access_request_clean_0120.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0120.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,MFA,0.85
+it_access_request_clean_0120.pdf,IT Access Request,Tom Nguyen,PERSON,J. Keller,0.85
+it_access_request_clean_0120.pdf,IT Access Request,Tom Nguyen,DATE_TIME,Nov 2025,0.85
+it_access_request_clean_0122.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0122.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_clean_0122.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_clean_0124.pdf,IT Access Request,Anna Keller,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0124.pdf,IT Access Request,Anna Keller,PERSON,M. Braun,0.85
+it_access_request_clean_0124.pdf,IT Access Request,Anna Keller,DATE_TIME,07 Apr 2026,0.85
+it_access_request_clean_0124.pdf,IT Access Request,Anna Keller,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0124.pdf,IT Access Request,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0125.pdf,IT Access Request,Max Wagner,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0125.pdf,IT Access Request,Max Wagner,PERSON,M. Braun,0.85
+it_access_request_clean_0125.pdf,IT Access Request,Max Wagner,DATE_TIME,Jan 2020,0.85
+it_access_request_clean_0125.pdf,IT Access Request,Max Wagner,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0125.pdf,IT Access Request,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0126.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0126.pdf,IT Access Request,Maria Schmidt,PERSON,M. Braun,0.85
+it_access_request_clean_0126.pdf,IT Access Request,Maria Schmidt,DATE_TIME,03 Mar 2020,0.85
+it_access_request_clean_0127.pdf,IT Access Request,Anna Keller,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0127.pdf,IT Access Request,Anna Keller,ORGANIZATION,MFA,0.85
+it_access_request_clean_0127.pdf,IT Access Request,Anna Keller,PERSON,J. Keller,0.85
+it_access_request_clean_0127.pdf,IT Access Request,Anna Keller,DATE_TIME,09 Apr 2020,0.85
+it_access_request_clean_0128.pdf,IT Access Request,Anna Keller,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0128.pdf,IT Access Request,Anna Keller,PERSON,M. Braun,0.85
+it_access_request_clean_0128.pdf,IT Access Request,Anna Keller,DATE_TIME,May 2020,0.85
+it_access_request_clean_0129.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0129.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,MFA,0.85
+it_access_request_clean_0129.pdf,IT Access Request,Jonas Fischer,PERSON,J. Keller,0.85
+it_access_request_clean_0129.pdf,IT Access Request,Jonas Fischer,DATE_TIME,Jun 2020,0.85
+it_access_request_clean_0130.pdf,IT Access Request,Anna Keller,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0130.pdf,IT Access Request,Anna Keller,ORGANIZATION,MFA,0.85
+it_access_request_clean_0130.pdf,IT Access Request,Anna Keller,PERSON,J. Keller,0.85
+it_access_request_clean_0130.pdf,IT Access Request,Anna Keller,DATE_TIME,Jul 2020,0.85
+it_access_request_clean_0132.pdf,IT Access Request,Priya Nair,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0132.pdf,IT Access Request,Priya Nair,ORGANIZATION,MFA,0.85
+it_access_request_clean_0132.pdf,IT Access Request,Priya Nair,PERSON,J. Keller,0.85
+it_access_request_clean_0132.pdf,IT Access Request,Priya Nair,DATE_TIME,Oct 2020,0.85
+it_access_request_clean_0134.pdf,IT Access Request,Priya Nair,ORGANIZATION,Signature,0.85
+it_access_request_clean_0135.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0135.pdf,IT Access Request,Sofia Hartmann,PERSON,M. Braun,0.85
+it_access_request_clean_0135.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,30 Jan 2021,0.85
+it_access_request_clean_0136.pdf,IT Access Request,Max Wagner,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0136.pdf,IT Access Request,Max Wagner,PERSON,M. Braun,0.85
+it_access_request_clean_0136.pdf,IT Access Request,Max Wagner,DATE_TIME,08 Mar 2021,0.85
+it_access_request_clean_0137.pdf,IT Access Request,Priya Nair,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0137.pdf,IT Access Request,Priya Nair,ORGANIZATION,MFA,0.85
+it_access_request_clean_0137.pdf,IT Access Request,Priya Nair,PERSON,J. Keller,0.85
+it_access_request_clean_0137.pdf,IT Access Request,Priya Nair,DATE_TIME,Apr 2021,0.85
+it_access_request_clean_0138.pdf,IT Access Request,Anna Keller,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0138.pdf,IT Access Request,Anna Keller,ORGANIZATION,MFA,0.85
+it_access_request_clean_0138.pdf,IT Access Request,Anna Keller,PERSON,J. Keller,0.85
+it_access_request_clean_0138.pdf,IT Access Request,Anna Keller,DATE_TIME,May 2021,0.85
+it_access_request_clean_0140.pdf,IT Access Request,Priya Nair,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0140.pdf,IT Access Request,Priya Nair,ORGANIZATION,MFA,0.85
+it_access_request_clean_0140.pdf,IT Access Request,Priya Nair,PERSON,J. Keller,0.85
+it_access_request_clean_0140.pdf,IT Access Request,Priya Nair,DATE_TIME,03 Aug 2021,0.85
+it_access_request_clean_0141.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0141.pdf,IT Access Request,Tom Nguyen,PERSON,M. Braun,0.85
+it_access_request_clean_0141.pdf,IT Access Request,Tom Nguyen,DATE_TIME,09 Sept 2021,0.85
+it_access_request_clean_0142.pdf,IT Access Request,Max Wagner,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0142.pdf,IT Access Request,Max Wagner,PERSON,M. Braun,0.85
+it_access_request_clean_0142.pdf,IT Access Request,Max Wagner,DATE_TIME,Oct 2021,0.85
+it_access_request_clean_0144.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0144.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_clean_0144.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_clean_0144.pdf,IT Access Request,Max Wagner,DATE_TIME,Dec 2021,0.85
+it_access_request_clean_0146.pdf,IT Access Request,Lukas Weber,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0146.pdf,IT Access Request,Lukas Weber,PERSON,M. Braun,0.85
+it_access_request_clean_0146.pdf,IT Access Request,Lukas Weber,DATE_TIME,Mar 2022,0.85
+it_access_request_clean_0147.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0147.pdf,IT Access Request,Sofia Hartmann,PERSON,M. Braun,0.85
+it_access_request_clean_0147.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,Apr 2022,0.85
+it_access_request_clean_0149.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0149.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,MFA,0.85
+it_access_request_clean_0149.pdf,IT Access Request,Sofia Hartmann,PERSON,J. Keller,0.85
+it_access_request_clean_0149.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,Jul 2022,0.85
+it_access_request_clean_0150.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0150.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,MFA,0.85
+it_access_request_clean_0150.pdf,IT Access Request,Maria Schmidt,PERSON,J. Keller,0.85
+it_access_request_clean_0150.pdf,IT Access Request,Maria Schmidt,DATE_TIME,Aug 2022,0.85
+it_access_request_clean_0151.pdf,IT Access Request,Priya Nair,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0151.pdf,IT Access Request,Priya Nair,ORGANIZATION,MFA,0.85
+it_access_request_clean_0151.pdf,IT Access Request,Priya Nair,PERSON,J. Keller,0.85
+it_access_request_clean_0151.pdf,IT Access Request,Priya Nair,DATE_TIME,Sept 2022,0.85
+it_access_request_clean_0151.pdf,IT Access Request,Priya Nair,ORGANIZATION,Signature,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,MFA,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,PERSON,J. Keller,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,DATE_TIME,Oct 2022,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0152.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0153.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0153.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,MFA,0.85
+it_access_request_clean_0153.pdf,IT Access Request,Maria Schmidt,PERSON,J. Keller,0.85
+it_access_request_clean_0153.pdf,IT Access Request,Maria Schmidt,DATE_TIME,27 Nov 2022,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,MFA,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,PERSON,J. Keller,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,DATE_TIME,Mar 2023,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0156.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0157.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0157.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,MFA,0.85
+it_access_request_clean_0157.pdf,IT Access Request,Tom Nguyen,PERSON,J. Keller,0.85
+it_access_request_clean_0157.pdf,IT Access Request,Tom Nguyen,DATE_TIME,Apr 2023,0.85
+it_access_request_clean_0158.pdf,IT Access Request,Noah Becker,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0158.pdf,IT Access Request,Noah Becker,PERSON,M. Braun,0.85
+it_access_request_clean_0158.pdf,IT Access Request,Noah Becker,DATE_TIME,May 2023,0.85
+it_access_request_clean_0159.pdf,IT Access Request,Maria Schmidt,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0159.pdf,IT Access Request,Maria Schmidt,PERSON,M. Braun,0.85
+it_access_request_clean_0159.pdf,IT Access Request,Maria Schmidt,DATE_TIME,07 Jul 2023,0.85
+it_access_request_clean_0161.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0161.pdf,IT Access Request,Jonas Fischer,PERSON,M. Braun,0.85
+it_access_request_clean_0161.pdf,IT Access Request,Jonas Fischer,DATE_TIME,Sept 2023,0.85
+it_access_request_clean_0163.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0163.pdf,IT Access Request,Sofia Hartmann,PERSON,M. Braun,0.85
+it_access_request_clean_0163.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,02 Dec 2023,0.85
+it_access_request_clean_0163.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0163.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0166.pdf,IT Access Request,Priya Nair,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0166.pdf,IT Access Request,Priya Nair,PERSON,M. Braun,0.85
+it_access_request_clean_0166.pdf,IT Access Request,Priya Nair,DATE_TIME,Mar 2024,0.85
+it_access_request_clean_0168.pdf,IT Access Request,Lukas Weber,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0168.pdf,IT Access Request,Lukas Weber,ORGANIZATION,MFA,0.85
+it_access_request_clean_0168.pdf,IT Access Request,Lukas Weber,PERSON,J. Keller,0.85
+it_access_request_clean_0168.pdf,IT Access Request,Lukas Weber,DATE_TIME,04 Jun 2024,0.85
+it_access_request_clean_0169.pdf,IT Access Request,Anna Keller,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0169.pdf,IT Access Request,Anna Keller,PERSON,M. Braun,0.85
+it_access_request_clean_0169.pdf,IT Access Request,Anna Keller,DATE_TIME,Jul 2024,0.85
+it_access_request_clean_0170.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0170.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,MFA,0.85
+it_access_request_clean_0170.pdf,IT Access Request,Tom Nguyen,PERSON,J. Keller,0.85
+it_access_request_clean_0170.pdf,IT Access Request,Tom Nguyen,DATE_TIME,Aug 2024,0.85
+it_access_request_clean_0171.pdf,IT Access Request,Noah Becker,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0171.pdf,IT Access Request,Noah Becker,ORGANIZATION,MFA,0.85
+it_access_request_clean_0171.pdf,IT Access Request,Noah Becker,PERSON,J. Keller,0.85
+it_access_request_clean_0171.pdf,IT Access Request,Noah Becker,DATE_TIME,Sept 2024,0.85
+it_access_request_clean_0172.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0172.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_clean_0172.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_clean_0172.pdf,IT Access Request,Max Wagner,DATE_TIME,Oct 2024,0.85
+it_access_request_clean_0174.pdf,IT Access Request,Max Wagner,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0174.pdf,IT Access Request,Max Wagner,PERSON,M. Braun,0.85
+it_access_request_clean_0175.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0175.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,MFA,0.85
+it_access_request_clean_0175.pdf,IT Access Request,Elena Hoffmann,PERSON,J. Keller,0.85
+it_access_request_clean_0175.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Feb 2025,0.85
+it_access_request_clean_0177.pdf,IT Access Request,Priya Nair,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0177.pdf,IT Access Request,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0178.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0178.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0179.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0179.pdf,IT Access Request,Sofia Hartmann,ORGANIZATION,MFA,0.85
+it_access_request_clean_0179.pdf,IT Access Request,Sofia Hartmann,PERSON,J. Keller,0.85
+it_access_request_clean_0179.pdf,IT Access Request,Sofia Hartmann,DATE_TIME,Jul 2025,0.85
+it_access_request_clean_0180.pdf,IT Access Request,Tom Nguyen,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0180.pdf,IT Access Request,Tom Nguyen,PERSON,M. Braun,0.85
+it_access_request_clean_0180.pdf,IT Access Request,Tom Nguyen,DATE_TIME,Aug 2025,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,ORGANIZATION,MFA,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,PERSON,J. Keller,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,DATE_TIME,04 Nov 2025,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0182.pdf,IT Access Request,Noah Becker,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0183.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0183.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0184.pdf,IT Access Request,Lukas Weber,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0184.pdf,IT Access Request,Lukas Weber,PERSON,M. Braun,0.85
+it_access_request_clean_0185.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0185.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,MFA,0.85
+it_access_request_clean_0185.pdf,IT Access Request,Jonas Fischer,PERSON,J. Keller,0.85
+it_access_request_clean_0185.pdf,IT Access Request,Jonas Fischer,DATE_TIME,Feb 2026,0.85
+it_access_request_clean_0185.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Signature,0.85
+it_access_request_clean_0187.pdf,IT Access Request,Noah Becker,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0187.pdf,IT Access Request,Noah Becker,PERSON,M. Braun,0.85
+it_access_request_clean_0187.pdf,IT Access Request,Noah Becker,DATE_TIME,Jan 2020,0.85
+it_access_request_clean_0190.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0190.pdf,IT Access Request,Jonas Fischer,ORGANIZATION,MFA,0.85
+it_access_request_clean_0190.pdf,IT Access Request,Jonas Fischer,PERSON,J. Keller,0.85
+it_access_request_clean_0190.pdf,IT Access Request,Jonas Fischer,DATE_TIME,May 2020,0.85
+it_access_request_clean_0191.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0191.pdf,IT Access Request,Elena Hoffmann,PERSON,M. Braun,0.85
+it_access_request_clean_0191.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Jun 2020,0.85
+it_access_request_clean_0193.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0193.pdf,IT Access Request,Elena Hoffmann,PERSON,M. Braun,0.85
+it_access_request_clean_0193.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Aug 2020,0.85
+it_access_request_clean_0194.pdf,IT Access Request,Priya Nair,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0194.pdf,IT Access Request,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+it_access_request_clean_0195.pdf,IT Access Request,Noah Becker,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0195.pdf,IT Access Request,Noah Becker,ORGANIZATION,MFA,0.85
+it_access_request_clean_0195.pdf,IT Access Request,Noah Becker,PERSON,J. Keller,0.85
+it_access_request_clean_0195.pdf,IT Access Request,Noah Becker,DATE_TIME,11 Nov 2020,0.85
+it_access_request_clean_0196.pdf,IT Access Request,Max Wagner,ORGANIZATION,Digital Operations,0.85
+it_access_request_clean_0196.pdf,IT Access Request,Max Wagner,ORGANIZATION,MFA,0.85
+it_access_request_clean_0196.pdf,IT Access Request,Max Wagner,PERSON,J. Keller,0.85
+it_access_request_clean_0196.pdf,IT Access Request,Max Wagner,DATE_TIME,Dec 2020,0.85
+it_access_request_clean_0197.pdf,IT Access Request,Lukas Weber,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0197.pdf,IT Access Request,Lukas Weber,PERSON,M. Braun,0.85
+it_access_request_clean_0197.pdf,IT Access Request,Lukas Weber,DATE_TIME,Jan 2021,0.85
+it_access_request_clean_0199.pdf,IT Access Request,Elena Hoffmann,ORGANIZATION,"Reviewer: Identity & Access Team
+Comments",0.85
+it_access_request_clean_0199.pdf,IT Access Request,Elena Hoffmann,PERSON,M. Braun,0.85
+it_access_request_clean_0199.pdf,IT Access Request,Elena Hoffmann,DATE_TIME,Apr 2021,0.85
+it_access_request_clean_0200.pdf,IT Access Request,Lukas Weber,ORGANIZATION,Team Lead,0.85
+it_access_request_clean_0200.pdf,IT Access Request,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+incident_report_finding_0201.pdf,Incident Report,Sofia Hartmann,DATE_TIME,Jun 2021,0.85
+incident_report_finding_0201.pdf,Incident Report,Sofia Hartmann,PERSON,Maria Schmidt,0.85
+incident_report_finding_0201.pdf,Incident Report,Sofia Hartmann,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0201.pdf,Incident Report,Sofia Hartmann,PERSON,Maria Schmidt,0.85
+incident_report_finding_0201.pdf,Incident Report,Sofia Hartmann,DATE_TIME,30 May 2026,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,DATE_TIME,Jul 2021,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,PERSON,Elena Fischer,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,ORGANIZATION,Driver's License Number,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,PERSON,Elena Fischer,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,DATE_TIME,30 May 2026,0.85
+incident_report_finding_0202.pdf,Incident Report,Lukas Weber,PHONE_NUMBER,4409-1182-21,0.75
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,DATE_TIME,Sept 2021,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,PERSON,Jonas Keller,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,LOCATION,Bangalore,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,DATE_TIME,2022-09-03,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,LOCATION,Pune,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,DATE_TIME,2022-09-07,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,LOCATION,Chennai,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,DATE_TIME,2022-09-09,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,PERSON,Jonas Keller,0.85
+incident_report_finding_0203.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,CREDIT_CARD,3782 822463 10005,1.0
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,DATE_TIME,Oct 2021,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,DATE_TIME,"5519
+Billing / Shipping Address: Am Markt 5",0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,LOCATION,Dresden,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,LOCATION,Germany,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corporate Credit Card,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_finding_0204.pdf,Incident Report,Maria Schmidt,PHONE_NUMBER,+49 172 3310 5519,0.75
+incident_report_finding_0205.pdf,Incident Report,Noah Becker,DATE_TIME,16 Nov 2021,0.85
+incident_report_finding_0205.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0205.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_finding_0205.pdf,Incident Report,Noah Becker,URL,maria.sc,0.5
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Dec 2021,0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,PERSON,Elena Fischer,0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,PERSON,elena dot fischer,0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,PERSON,"E. Fischer
+Incident Report",0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,PERSON,Elena Fischer,0.85
+incident_report_finding_0206.pdf,Incident Report,Elena Hoffmann,DATE_TIME,30 May 2026,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,DATE_TIME,Jan 2022,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,PERSON,Jonas Keller,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,PERSON,security_camera_still_keller.jpg,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,PERSON,Jonas Keller,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,PERSON,Jonas Keller,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,DATE_TIME,30 May 2026,0.85
+incident_report_finding_0207.pdf,Incident Report,Noah Becker,URL,keller.jp,0.5
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,DATE_TIME,1994-02-19,0.95
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,DATE_TIME,07 Mar 2022,0.85
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,PERSON,Nina Beck,0.85
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,ORGANIZATION,MED-DE-510483,0.85
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,PERSON,Nina Beck,0.85
+incident_report_finding_0208.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,DATE_TIME,Apr 2022,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,LOCATION,Stuttgart,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,DATE_TIME,2022-03-11,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,LOCATION,Lyon,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,DATE_TIME,2022-04-18,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,LOCATION,Milan,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,DATE_TIME,2022-05-09,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,ORGANIZATION,"MED-DE-440912
+",0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0209.pdf,Incident Report,Priya Nair,DATE_TIME,May 2026,0.85
+incident_report_finding_0210.pdf,Incident Report,Anna Keller,DATE_TIME,May 2022,0.85
+incident_report_finding_0210.pdf,Incident Report,Anna Keller,PERSON,elena dot fischer,0.85
+incident_report_finding_0210.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0210.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_finding_0211.pdf,Incident Report,Maria Schmidt,DATE_TIME,Jun 2022,0.85
+incident_report_finding_0211.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0211.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_finding_0212.pdf,Incident Report,Lukas Weber,DATE_TIME,02 Aug 2022,0.85
+incident_report_finding_0212.pdf,Incident Report,Lukas Weber,LOCATION,Nuremberg,0.85
+incident_report_finding_0212.pdf,Incident Report,Lukas Weber,ORGANIZATION,"Germany
+Incident Report",0.85
+incident_report_finding_0212.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_finding_0212.pdf,Incident Report,Lukas Weber,DATE_TIME,30 May 2026,0.85
+incident_report_clean_0214.pdf,Incident Report,Lukas Weber,DATE_TIME,Oct 2022,0.85
+incident_report_clean_0214.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0214.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0215.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0215.pdf,Incident Report,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0216.pdf,Incident Report,Maria Schmidt,DATE_TIME,Dec 2022,0.85
+incident_report_clean_0216.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0216.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0217.pdf,Incident Report,Max Wagner,DATE_TIME,03 Feb 2023,0.85
+incident_report_clean_0217.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0217.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0217.pdf,Incident Report,Max Wagner,ORGANIZATION,Signature,0.85
+incident_report_clean_0218.pdf,Incident Report,Max Wagner,DATE_TIME,Mar 2023,0.85
+incident_report_clean_0218.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0218.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0220.pdf,Incident Report,Max Wagner,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0220.pdf,Incident Report,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0221.pdf,Incident Report,Lukas Weber,DATE_TIME,Jul 2023,0.85
+incident_report_clean_0221.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0221.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0222.pdf,Incident Report,Maria Schmidt,DATE_TIME,07 Aug 2023,0.85
+incident_report_clean_0222.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0222.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0224.pdf,Incident Report,Maria Schmidt,DATE_TIME,Oct 2023,0.85
+incident_report_clean_0224.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0224.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0225.pdf,Incident Report,Maria Schmidt,DATE_TIME,Nov 2023,0.85
+incident_report_clean_0225.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0225.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0226.pdf,Incident Report,Anna Keller,DATE_TIME,02 Jan 2024,0.85
+incident_report_clean_0226.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0226.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0228.pdf,Incident Report,Noah Becker,DATE_TIME,Mar 2024,0.85
+incident_report_clean_0228.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0228.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0229.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Apr 2024,0.85
+incident_report_clean_0229.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0229.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0231.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0231.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0232.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Aug 2024,0.85
+incident_report_clean_0232.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0232.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0233.pdf,Incident Report,Tom Nguyen,DATE_TIME,Sept 2024,0.85
+incident_report_clean_0233.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0233.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_clean_0235.pdf,Incident Report,Tom Nguyen,DATE_TIME,30 Nov 2024,0.85
+incident_report_clean_0235.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0235.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_clean_0237.pdf,Incident Report,Anna Keller,DATE_TIME,Feb 2025,0.85
+incident_report_clean_0237.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0237.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0240.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0240.pdf,Incident Report,Jonas Fischer,DATE_TIME,May 2026,0.85
+incident_report_clean_0240.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0240.pdf,Incident Report,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0241.pdf,Incident Report,Anna Keller,DATE_TIME,Jul 2025,0.85
+incident_report_clean_0241.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0241.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0245.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0245.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0247.pdf,Incident Report,Maria Schmidt,DATE_TIME,Feb 2026,0.85
+incident_report_clean_0247.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0247.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0247.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0247.pdf,Incident Report,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0251.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Mar 2020,0.85
+incident_report_clean_0251.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0251.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0252.pdf,Incident Report,Jonas Fischer,DATE_TIME,04 May 2020,0.85
+incident_report_clean_0252.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0252.pdf,Incident Report,Jonas Fischer,DATE_TIME,May 2026,0.85
+incident_report_clean_0253.pdf,Incident Report,Anna Keller,DATE_TIME,Jun 2020,0.85
+incident_report_clean_0253.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0253.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0253.pdf,Incident Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0253.pdf,Incident Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0254.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Jul 2020,0.85
+incident_report_clean_0254.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0254.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0255.pdf,Incident Report,Maria Schmidt,DATE_TIME,Aug 2020,0.85
+incident_report_clean_0255.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0255.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0256.pdf,Incident Report,Tom Nguyen,DATE_TIME,Sept 2020,0.85
+incident_report_clean_0256.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0256.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_clean_0257.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0257.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0258.pdf,Incident Report,Priya Nair,DATE_TIME,Dec 2020,0.85
+incident_report_clean_0258.pdf,Incident Report,Priya Nair,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0258.pdf,Incident Report,Priya Nair,DATE_TIME,May 2026,0.85
+incident_report_clean_0259.pdf,Incident Report,Lukas Weber,DATE_TIME,Jan 2021,0.85
+incident_report_clean_0259.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0259.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0259.pdf,Incident Report,Lukas Weber,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0259.pdf,Incident Report,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0261.pdf,Incident Report,Noah Becker,DATE_TIME,02 Apr 2021,0.85
+incident_report_clean_0261.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0261.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0262.pdf,Incident Report,Jonas Fischer,DATE_TIME,09 May 2021,0.85
+incident_report_clean_0262.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0262.pdf,Incident Report,Jonas Fischer,DATE_TIME,May 2026,0.85
+incident_report_clean_0262.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0262.pdf,Incident Report,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0263.pdf,Incident Report,Anna Keller,DATE_TIME,Jun 2021,0.85
+incident_report_clean_0263.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0263.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0263.pdf,Incident Report,Anna Keller,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0263.pdf,Incident Report,Anna Keller,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0264.pdf,Incident Report,Anna Keller,DATE_TIME,Jul 2021,0.85
+incident_report_clean_0264.pdf,Incident Report,Anna Keller,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0264.pdf,Incident Report,Anna Keller,DATE_TIME,May 2026,0.85
+incident_report_clean_0265.pdf,Incident Report,Sofia Hartmann,DATE_TIME,Aug 2021,0.85
+incident_report_clean_0265.pdf,Incident Report,Sofia Hartmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0265.pdf,Incident Report,Sofia Hartmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0266.pdf,Incident Report,Max Wagner,DATE_TIME,04 Oct 2021,0.85
+incident_report_clean_0266.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0266.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0268.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Dec 2021,0.85
+incident_report_clean_0268.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0268.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0269.pdf,Incident Report,Maria Schmidt,DATE_TIME,Jan 2022,0.85
+incident_report_clean_0269.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0269.pdf,Incident Report,Maria Schmidt,DATE_TIME,May 2026,0.85
+incident_report_clean_0271.pdf,Incident Report,Noah Becker,DATE_TIME,07 Apr 2022,0.85
+incident_report_clean_0271.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0271.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0272.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2022,0.85
+incident_report_clean_0272.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0272.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0273.pdf,Incident Report,Elena Hoffmann,DATE_TIME,Jun 2022,0.85
+incident_report_clean_0273.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0273.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0274.pdf,Incident Report,Priya Nair,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0274.pdf,Incident Report,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0276.pdf,Incident Report,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0276.pdf,Incident Report,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0277.pdf,Incident Report,Sofia Hartmann,DATE_TIME,15 Nov 2022,0.85
+incident_report_clean_0277.pdf,Incident Report,Sofia Hartmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0277.pdf,Incident Report,Sofia Hartmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0278.pdf,Incident Report,Noah Becker,DATE_TIME,Dec 2022,0.85
+incident_report_clean_0278.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0278.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0279.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0279.pdf,Incident Report,Jonas Fischer,DATE_TIME,May 2026,0.85
+incident_report_clean_0279.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0279.pdf,Incident Report,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0280.pdf,Incident Report,Lukas Weber,DATE_TIME,06 Mar 2023,0.85
+incident_report_clean_0280.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0280.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0281.pdf,Incident Report,Lukas Weber,DATE_TIME,Apr 2023,0.85
+incident_report_clean_0281.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0281.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0281.pdf,Incident Report,Lukas Weber,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0281.pdf,Incident Report,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0282.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2023,0.85
+incident_report_clean_0282.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0282.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_clean_0282.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0282.pdf,Incident Report,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0283.pdf,Incident Report,Jonas Fischer,DATE_TIME,Jun 2023,0.85
+incident_report_clean_0283.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0283.pdf,Incident Report,Jonas Fischer,DATE_TIME,May 2026,0.85
+incident_report_clean_0283.pdf,Incident Report,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0283.pdf,Incident Report,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0284.pdf,Incident Report,Max Wagner,DATE_TIME,Aug 2023,0.85
+incident_report_clean_0284.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0284.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0285.pdf,Incident Report,Noah Becker,DATE_TIME,07 Sept 2023,0.85
+incident_report_clean_0285.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0285.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0286.pdf,Incident Report,Max Wagner,DATE_TIME,Oct 2023,0.85
+incident_report_clean_0286.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0286.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0286.pdf,Incident Report,Max Wagner,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0286.pdf,Incident Report,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0287.pdf,Incident Report,Noah Becker,DATE_TIME,20 Nov 2023,0.85
+incident_report_clean_0287.pdf,Incident Report,Noah Becker,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0287.pdf,Incident Report,Noah Becker,DATE_TIME,May 2026,0.85
+incident_report_clean_0289.pdf,Incident Report,Elena Hoffmann,DATE_TIME,02 Feb 2024,0.85
+incident_report_clean_0289.pdf,Incident Report,Elena Hoffmann,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0289.pdf,Incident Report,Elena Hoffmann,DATE_TIME,May 2026,0.85
+incident_report_clean_0290.pdf,Incident Report,Lukas Weber,DATE_TIME,Mar 2024,0.85
+incident_report_clean_0290.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0290.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0291.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0291.pdf,Incident Report,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0292.pdf,Incident Report,Priya Nair,DATE_TIME,May 2024,0.85
+incident_report_clean_0292.pdf,Incident Report,Priya Nair,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0292.pdf,Incident Report,Priya Nair,DATE_TIME,May 2026,0.85
+incident_report_clean_0293.pdf,Incident Report,Tom Nguyen,DATE_TIME,Jun 2024,0.85
+incident_report_clean_0293.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0293.pdf,Incident Report,Tom Nguyen,DATE_TIME,May 2026,0.85
+incident_report_clean_0293.pdf,Incident Report,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0293.pdf,Incident Report,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0295.pdf,Incident Report,Lukas Weber,DATE_TIME,Sept 2024,0.85
+incident_report_clean_0295.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0295.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0295.pdf,Incident Report,Lukas Weber,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0295.pdf,Incident Report,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0296.pdf,Incident Report,Max Wagner,DATE_TIME,Oct 2024,0.85
+incident_report_clean_0296.pdf,Incident Report,Max Wagner,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0296.pdf,Incident Report,Max Wagner,DATE_TIME,May 2026,0.85
+incident_report_clean_0297.pdf,Incident Report,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0297.pdf,Incident Report,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+incident_report_clean_0298.pdf,Incident Report,Lukas Weber,DATE_TIME,Dec 2024,0.85
+incident_report_clean_0298.pdf,Incident Report,Lukas Weber,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0298.pdf,Incident Report,Lukas Weber,DATE_TIME,May 2026,0.85
+incident_report_clean_0300.pdf,Incident Report,Priya Nair,DATE_TIME,Mar 2025,0.85
+incident_report_clean_0300.pdf,Incident Report,Priya Nair,ORGANIZATION,Corrective Action,0.85
+incident_report_clean_0300.pdf,Incident Report,Priya Nair,DATE_TIME,May 2026,0.85
+incident_report_clean_0300.pdf,Incident Report,Priya Nair,ORGANIZATION,Team Lead,0.85
+incident_report_clean_0300.pdf,Incident Report,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_finding_0301.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0301.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0301.pdf,Supplier Onboarding,Tom Nguyen,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0302.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0302.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0302.pdf,Supplier Onboarding,Elena Hoffmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0303.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0303.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0303.pdf,Supplier Onboarding,Tom Nguyen,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,PERSON,Nina Beck,0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,"nina.beck@bosch.example
+Health / Accommodation Note",0.85
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,URL,nina.be,0.5
+supplier_onboarding_finding_0304.pdf,Supplier Onboarding,Lukas Weber,URL,nina.be,0.5
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,8,0.85
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,80331,0.85
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,PERSON,Maria Schmidt,0.85
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,PHONE_NUMBER,+49 151 2345 7821,0.75
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,URL,maria.sc,0.5
+supplier_onboarding_finding_0305.pdf,Supplier Onboarding,Maria Schmidt,URL,maria.sc,0.5
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,IP_ADDRESS,192.168.12.34,0.95
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,PERSON,efischer08,0.85
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,192.168.12.34,0.85
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,URL,elena.fi,0.5
+supplier_onboarding_finding_0306.pdf,Supplier Onboarding,Jonas Fischer,URL,elena.fi,0.5
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,PERSON,Jonas Keller,0.85
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,LOCATION,Cologne,0.85
+supplier_onboarding_finding_0307.pdf,Supplier Onboarding,Max Wagner,LOCATION,Germany,0.85
+supplier_onboarding_finding_0308.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0308.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0308.pdf,Supplier Onboarding,Jonas Fischer,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0308.pdf,Supplier Onboarding,Jonas Fischer,PERSON,Nina Beck,0.85
+supplier_onboarding_finding_0309.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_finding_0309.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,8,0.85
+supplier_onboarding_finding_0309.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,80331,0.85
+supplier_onboarding_finding_0309.pdf,Supplier Onboarding,Jonas Fischer,PERSON,Maria Schmidt,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,8,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,80331,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,PERSON,Elena Fischer,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Driver's License Number,0.85
+supplier_onboarding_finding_0310.pdf,Supplier Onboarding,Sofia Hartmann,PHONE_NUMBER,4409-1182-21,0.75
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,70173,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,LOCATION,Stuttgart,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,PERSON,Jonas Keller,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,LOCATION,Bangalore,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,2022-09-03,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,LOCATION,Pune,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,2022-09-07,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,LOCATION,Chennai,0.85
+supplier_onboarding_finding_0311.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,2022-09-09,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,CREDIT_CARD,3782 822463 10005,1.0
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,8,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,80331,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,"5519
+Billing / Shipping Address: Am Markt 5",0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Dresden,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Germany,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Corporate Credit Card,0.85
+supplier_onboarding_finding_0312.pdf,Supplier Onboarding,Lukas Weber,PHONE_NUMBER,+49 172 3310 5519,0.75
+supplier_onboarding_clean_0313.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0313.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0313.pdf,Supplier Onboarding,Noah Becker,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0314.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0314.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,8,0.85
+supplier_onboarding_clean_0314.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0316.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0316.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0317.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0317.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,8,0.85
+supplier_onboarding_clean_0317.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0318.pdf,Supplier Onboarding,Anna Keller,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0318.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0318.pdf,Supplier Onboarding,Anna Keller,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0320.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0320.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0320.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0322.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0322.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0322.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0323.pdf,Supplier Onboarding,Anna Keller,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0323.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,8,0.85
+supplier_onboarding_clean_0323.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0324.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0324.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0324.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0325.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0325.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0325.pdf,Supplier Onboarding,Jonas Fischer,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0327.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0327.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,8,0.85
+supplier_onboarding_clean_0327.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0328.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0328.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0328.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0329.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0329.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0329.pdf,Supplier Onboarding,Priya Nair,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0330.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0330.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,8,0.85
+supplier_onboarding_clean_0330.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0331.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0331.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0331.pdf,Supplier Onboarding,Noah Becker,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0332.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0332.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,8,0.85
+supplier_onboarding_clean_0332.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0332.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0332.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0333.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0333.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0334.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0334.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0334.pdf,Supplier Onboarding,Noah Becker,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0335.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0335.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0335.pdf,Supplier Onboarding,Jonas Fischer,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0336.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0336.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0336.pdf,Supplier Onboarding,Tom Nguyen,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0337.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0337.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,8,0.85
+supplier_onboarding_clean_0337.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0338.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0338.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,8,0.85
+supplier_onboarding_clean_0338.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0338.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0338.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0339.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0339.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,8,0.85
+supplier_onboarding_clean_0339.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0343.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0343.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0343.pdf,Supplier Onboarding,Elena Hoffmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0344.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0344.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0344.pdf,Supplier Onboarding,Noah Becker,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0344.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0344.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0348.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0348.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,8,0.85
+supplier_onboarding_clean_0348.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0348.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0348.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0349.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0349.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,8,0.85
+supplier_onboarding_clean_0349.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0351.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0351.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0351.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0352.pdf,Supplier Onboarding,Anna Keller,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0352.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0352.pdf,Supplier Onboarding,Anna Keller,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0353.pdf,Supplier Onboarding,Anna Keller,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0353.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,8,0.85
+supplier_onboarding_clean_0353.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0354.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0354.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0354.pdf,Supplier Onboarding,Sofia Hartmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0355.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0355.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0355.pdf,Supplier Onboarding,Tom Nguyen,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0356.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0356.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0356.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0357.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0357.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0357.pdf,Supplier Onboarding,Jonas Fischer,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0357.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0357.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0358.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0358.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0358.pdf,Supplier Onboarding,Priya Nair,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0358.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0358.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0360.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0360.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0360.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0361.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0361.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0361.pdf,Supplier Onboarding,Priya Nair,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0362.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0362.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0362.pdf,Supplier Onboarding,Sofia Hartmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0363.pdf,Supplier Onboarding,Tom Nguyen,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0363.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,8,0.85
+supplier_onboarding_clean_0363.pdf,Supplier Onboarding,Tom Nguyen,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0366.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0366.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0366.pdf,Supplier Onboarding,Sofia Hartmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0367.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0367.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0367.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0369.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0369.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0369.pdf,Supplier Onboarding,Max Wagner,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0370.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0370.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0370.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0370.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0370.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0371.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0371.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0373.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0373.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0373.pdf,Supplier Onboarding,Priya Nair,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0374.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0374.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,8,0.85
+supplier_onboarding_clean_0374.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0374.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0374.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0375.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0375.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,8,0.85
+supplier_onboarding_clean_0375.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0376.pdf,Supplier Onboarding,Jonas Fischer,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0376.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,8,0.85
+supplier_onboarding_clean_0376.pdf,Supplier Onboarding,Jonas Fischer,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0377.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0377.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,8,0.85
+supplier_onboarding_clean_0377.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0379.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0379.pdf,Supplier Onboarding,Sofia Hartmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0379.pdf,Supplier Onboarding,Sofia Hartmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0379.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0379.pdf,Supplier Onboarding,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0380.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0380.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0380.pdf,Supplier Onboarding,Elena Hoffmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0381.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0381.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,8,0.85
+supplier_onboarding_clean_0381.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0382.pdf,Supplier Onboarding,Priya Nair,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0382.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,8,0.85
+supplier_onboarding_clean_0382.pdf,Supplier Onboarding,Priya Nair,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0384.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0384.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0384.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0384.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0384.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0386.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0386.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0386.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0388.pdf,Supplier Onboarding,Noah Becker,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0388.pdf,Supplier Onboarding,Noah Becker,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0388.pdf,Supplier Onboarding,Noah Becker,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0389.pdf,Supplier Onboarding,Lukas Weber,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0389.pdf,Supplier Onboarding,Lukas Weber,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0389.pdf,Supplier Onboarding,Lukas Weber,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0390.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0390.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0390.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0393.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0393.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0393.pdf,Supplier Onboarding,Elena Hoffmann,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0394.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0394.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0394.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0396.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0396.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,8,0.85
+supplier_onboarding_clean_0396.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0397.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0397.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,8,0.85
+supplier_onboarding_clean_0397.pdf,Supplier Onboarding,Elena Hoffmann,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0397.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,Team Lead,0.85
+supplier_onboarding_clean_0397.pdf,Supplier Onboarding,Elena Hoffmann,ORGANIZATION,IT Service Desk,0.85
+supplier_onboarding_clean_0398.pdf,Supplier Onboarding,Max Wagner,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0398.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,8,0.85
+supplier_onboarding_clean_0398.pdf,Supplier Onboarding,Max Wagner,DATE_TIME,80331,0.85
+supplier_onboarding_clean_0399.pdf,Supplier Onboarding,Maria Schmidt,ORGANIZATION,Nordic Components GmbH,0.85
+supplier_onboarding_clean_0399.pdf,Supplier Onboarding,Maria Schmidt,DATE_TIME,70173,0.85
+supplier_onboarding_clean_0399.pdf,Supplier Onboarding,Maria Schmidt,LOCATION,Stuttgart,0.85
+supplier_onboarding_clean_0400.pdf,Supplier Onboarding,Anna Keller,ORGANIZATION,Alpine Services AG,0.85
+supplier_onboarding_clean_0400.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,8,0.85
+supplier_onboarding_clean_0400.pdf,Supplier Onboarding,Anna Keller,DATE_TIME,80331,0.85
+training_evaluation_finding_0401.pdf,Training Evaluation,Lukas Weber,PERSON,Maria Schmidt,0.85
+training_evaluation_finding_0401.pdf,Training Evaluation,Lukas Weber,DATE_TIME,03 Nov 2022,0.85
+training_evaluation_finding_0401.pdf,Training Evaluation,Lukas Weber,DATE_TIME,quarterly,0.85
+training_evaluation_finding_0401.pdf,Training Evaluation,Lukas Weber,URL,maria.sc,0.5
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,PERSON,Elena Fischer,0.85
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,Dec 2022,0.85
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,PERSON,Elena Fischer,0.85
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,PERSON,elena dot fischer,0.85
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,PERSON,"E. Fischer
+",0.85
+training_evaluation_finding_0402.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,15-min,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,PERSON,Jonas Keller,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,PERSON,Jonas Keller,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,PERSON,security_camera_still_keller.jpg,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,PERSON,Jonas Keller,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,quarterly,0.85
+training_evaluation_finding_0403.pdf,Training Evaluation,Sofia Hartmann,URL,keller.jp,0.5
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,DATE_TIME,1994-02-19,0.95
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,PERSON,Nina Beck,0.85
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,DATE_TIME,Feb 2023,0.85
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,PERSON,Nina Beck,0.85
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,ORGANIZATION,MED-DE-510483,0.85
+training_evaluation_finding_0404.pdf,Training Evaluation,Priya Nair,DATE_TIME,15-min,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,PERSON,Maria Schmidt,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,DATE_TIME,Mar 2023,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,LOCATION,Stuttgart,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,DATE_TIME,2022-03-11,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,LOCATION,Lyon,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,DATE_TIME,2022-04-18,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,LOCATION,Milan,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,DATE_TIME,2022-05-09,0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,ORGANIZATION,"MED-DE-440912
+",0.85
+training_evaluation_finding_0405.pdf,Training Evaluation,Anna Keller,DATE_TIME,quarterly,0.85
+training_evaluation_finding_0406.pdf,Training Evaluation,Jonas Fischer,PERSON,Elena Fischer,0.85
+training_evaluation_finding_0406.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,07 May 2023,0.85
+training_evaluation_finding_0406.pdf,Training Evaluation,Jonas Fischer,PERSON,elena dot fischer,0.85
+training_evaluation_finding_0406.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_finding_0407.pdf,Training Evaluation,Priya Nair,PERSON,Jonas Keller,0.85
+training_evaluation_finding_0407.pdf,Training Evaluation,Priya Nair,DATE_TIME,Jun 2023,0.85
+training_evaluation_finding_0407.pdf,Training Evaluation,Priya Nair,DATE_TIME,15-min,0.85
+training_evaluation_finding_0408.pdf,Training Evaluation,Priya Nair,PERSON,Nina Beck,0.85
+training_evaluation_finding_0408.pdf,Training Evaluation,Priya Nair,DATE_TIME,Jul 2023,0.85
+training_evaluation_finding_0408.pdf,Training Evaluation,Priya Nair,LOCATION,Nuremberg,0.85
+training_evaluation_finding_0408.pdf,Training Evaluation,Priya Nair,LOCATION,Germany,0.85
+training_evaluation_finding_0408.pdf,Training Evaluation,Priya Nair,DATE_TIME,quarterly,0.85
+training_evaluation_finding_0409.pdf,Training Evaluation,Elena Hoffmann,PERSON,Maria Schmidt,0.85
+training_evaluation_finding_0409.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,Aug 2023,0.85
+training_evaluation_finding_0409.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,15-min,0.85
+training_evaluation_finding_0410.pdf,Training Evaluation,Sofia Hartmann,PERSON,Elena Fischer,0.85
+training_evaluation_finding_0410.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,Oct 2023,0.85
+training_evaluation_finding_0410.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,15-min,0.85
+training_evaluation_finding_0411.pdf,Training Evaluation,Sofia Hartmann,PERSON,Jonas Keller,0.85
+training_evaluation_finding_0411.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,08 Nov 2023,0.85
+training_evaluation_finding_0411.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,quarterly,0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,PERSON,Nina Beck,0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,DATE_TIME,Dec 2023,0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,PERSON,Nina Beck,0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,ORGANIZATION,"nina.beck@bosch.example
+Health / Accommodation Note",0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,DATE_TIME,15-min,0.85
+training_evaluation_finding_0412.pdf,Training Evaluation,Anna Keller,URL,nina.be,0.5
+training_evaluation_clean_0413.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0416.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,May 2024,0.85
+training_evaluation_clean_0416.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0418.pdf,Training Evaluation,Anna Keller,DATE_TIME,Jul 2024,0.85
+training_evaluation_clean_0418.pdf,Training Evaluation,Anna Keller,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0419.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,Aug 2024,0.85
+training_evaluation_clean_0419.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0419.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0419.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0421.pdf,Training Evaluation,Lukas Weber,DATE_TIME,12 Nov 2024,0.85
+training_evaluation_clean_0421.pdf,Training Evaluation,Lukas Weber,DATE_TIME,15-min,0.85
+training_evaluation_clean_0422.pdf,Training Evaluation,Max Wagner,DATE_TIME,Dec 2024,0.85
+training_evaluation_clean_0422.pdf,Training Evaluation,Max Wagner,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0423.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Jan 2025,0.85
+training_evaluation_clean_0423.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0424.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,03 Mar 2025,0.85
+training_evaluation_clean_0424.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0425.pdf,Training Evaluation,Priya Nair,DATE_TIME,09 Apr 2025,0.85
+training_evaluation_clean_0425.pdf,Training Evaluation,Priya Nair,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0426.pdf,Training Evaluation,Anna Keller,DATE_TIME,May 2025,0.85
+training_evaluation_clean_0426.pdf,Training Evaluation,Anna Keller,DATE_TIME,15-min,0.85
+training_evaluation_clean_0427.pdf,Training Evaluation,Anna Keller,DATE_TIME,Jun 2025,0.85
+training_evaluation_clean_0427.pdf,Training Evaluation,Anna Keller,DATE_TIME,15-min,0.85
+training_evaluation_clean_0429.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,04 Sept 2025,0.85
+training_evaluation_clean_0429.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0431.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Nov 2025,0.85
+training_evaluation_clean_0431.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0433.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
+training_evaluation_clean_0433.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0433.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0434.pdf,Training Evaluation,Noah Becker,DATE_TIME,08 Mar 2026,0.85
+training_evaluation_clean_0434.pdf,Training Evaluation,Noah Becker,DATE_TIME,15-min,0.85
+training_evaluation_clean_0435.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0435.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0437.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Mar 2020,0.85
+training_evaluation_clean_0437.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0438.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Apr 2020,0.85
+training_evaluation_clean_0438.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0439.pdf,Training Evaluation,Max Wagner,DATE_TIME,May 2020,0.85
+training_evaluation_clean_0439.pdf,Training Evaluation,Max Wagner,DATE_TIME,15-min,0.85
+training_evaluation_clean_0440.pdf,Training Evaluation,Max Wagner,DATE_TIME,Jun 2020,0.85
+training_evaluation_clean_0440.pdf,Training Evaluation,Max Wagner,DATE_TIME,15-min,0.85
+training_evaluation_clean_0442.pdf,Training Evaluation,Noah Becker,DATE_TIME,Sept 2020,0.85
+training_evaluation_clean_0442.pdf,Training Evaluation,Noah Becker,DATE_TIME,15-min,0.85
+training_evaluation_clean_0443.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,Oct 2020,0.85
+training_evaluation_clean_0443.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0444.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,24 Nov 2020,0.85
+training_evaluation_clean_0444.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0446.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,06 Feb 2021,0.85
+training_evaluation_clean_0446.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
+training_evaluation_clean_0446.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0446.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0448.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Apr 2021,0.85
+training_evaluation_clean_0448.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0449.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,May 2021,0.85
+training_evaluation_clean_0449.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,15-min,0.85
+training_evaluation_clean_0449.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0449.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0450.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,04 Jul 2021,0.85
+training_evaluation_clean_0450.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
+training_evaluation_clean_0456.pdf,Training Evaluation,Anna Keller,DATE_TIME,Feb 2022,0.85
+training_evaluation_clean_0456.pdf,Training Evaluation,Anna Keller,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0457.pdf,Training Evaluation,Noah Becker,DATE_TIME,Mar 2022,0.85
+training_evaluation_clean_0457.pdf,Training Evaluation,Noah Becker,DATE_TIME,15-min,0.85
+training_evaluation_clean_0458.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,Apr 2022,0.85
+training_evaluation_clean_0458.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
+training_evaluation_clean_0459.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,02 Jun 2022,0.85
+training_evaluation_clean_0459.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,15-min,0.85
+training_evaluation_clean_0460.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,09 Jul 2022,0.85
+training_evaluation_clean_0460.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0460.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0460.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0462.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Sept 2022,0.85
+training_evaluation_clean_0462.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0465.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0465.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0466.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Feb 2023,0.85
+training_evaluation_clean_0466.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0467.pdf,Training Evaluation,Max Wagner,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0467.pdf,Training Evaluation,Max Wagner,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0468.pdf,Training Evaluation,Noah Becker,DATE_TIME,May 2023,0.85
+training_evaluation_clean_0468.pdf,Training Evaluation,Noah Becker,DATE_TIME,15-min,0.85
+training_evaluation_clean_0469.pdf,Training Evaluation,Anna Keller,DATE_TIME,07 Jun 2023,0.85
+training_evaluation_clean_0469.pdf,Training Evaluation,Anna Keller,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0470.pdf,Training Evaluation,Noah Becker,DATE_TIME,Jul 2023,0.85
+training_evaluation_clean_0470.pdf,Training Evaluation,Noah Becker,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0471.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Aug 2023,0.85
+training_evaluation_clean_0471.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0472.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,Sept 2023,0.85
+training_evaluation_clean_0472.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0472.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0472.pdf,Training Evaluation,Sofia Hartmann,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0473.pdf,Training Evaluation,Max Wagner,DATE_TIME,02 Nov 2023,0.85
+training_evaluation_clean_0473.pdf,Training Evaluation,Max Wagner,DATE_TIME,15-min,0.85
+training_evaluation_clean_0474.pdf,Training Evaluation,Lukas Weber,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0474.pdf,Training Evaluation,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0475.pdf,Training Evaluation,Lukas Weber,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0475.pdf,Training Evaluation,Lukas Weber,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0476.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Feb 2024,0.85
+training_evaluation_clean_0476.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0478.pdf,Training Evaluation,Anna Keller,DATE_TIME,05 May 2024,0.85
+training_evaluation_clean_0478.pdf,Training Evaluation,Anna Keller,DATE_TIME,15-min,0.85
+training_evaluation_clean_0479.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,Jun 2024,0.85
+training_evaluation_clean_0479.pdf,Training Evaluation,Sofia Hartmann,DATE_TIME,15-min,0.85
+training_evaluation_clean_0480.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0480.pdf,Training Evaluation,Tom Nguyen,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0481.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,Aug 2024,0.85
+training_evaluation_clean_0481.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
+training_evaluation_clean_0483.pdf,Training Evaluation,Max Wagner,DATE_TIME,06 Nov 2024,0.85
+training_evaluation_clean_0483.pdf,Training Evaluation,Max Wagner,DATE_TIME,15-min,0.85
+training_evaluation_clean_0484.pdf,Training Evaluation,Priya Nair,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0484.pdf,Training Evaluation,Priya Nair,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0485.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,15-min,0.85
+training_evaluation_clean_0486.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,Feb 2025,0.85
+training_evaluation_clean_0486.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0487.pdf,Training Evaluation,Noah Becker,DATE_TIME,15-min,0.85
+training_evaluation_clean_0487.pdf,Training Evaluation,Noah Becker,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0487.pdf,Training Evaluation,Noah Becker,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0488.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,May 2025,0.85
+training_evaluation_clean_0488.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0488.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0488.pdf,Training Evaluation,Jonas Fischer,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0490.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,Jul 2025,0.85
+training_evaluation_clean_0490.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,15-min,0.85
+training_evaluation_clean_0491.pdf,Training Evaluation,Elena Hoffmann,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0491.pdf,Training Evaluation,Elena Hoffmann,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0494.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,Dec 2025,0.85
+training_evaluation_clean_0494.pdf,Training Evaluation,Maria Schmidt,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0496.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,Mar 2026,0.85
+training_evaluation_clean_0496.pdf,Training Evaluation,Jonas Fischer,DATE_TIME,15-min,0.85
+training_evaluation_clean_0497.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,Apr 2026,0.85
+training_evaluation_clean_0497.pdf,Training Evaluation,Elena Hoffmann,DATE_TIME,quarterly,0.85
+training_evaluation_clean_0497.pdf,Training Evaluation,Elena Hoffmann,ORGANIZATION,Team Lead,0.85
+training_evaluation_clean_0497.pdf,Training Evaluation,Elena Hoffmann,ORGANIZATION,IT Service Desk,0.85
+training_evaluation_clean_0500.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,Apr 2020,0.85
+training_evaluation_clean_0500.pdf,Training Evaluation,Tom Nguyen,DATE_TIME,15-min,0.85
