@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GDPR Data Discovery Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">GD</div>
+        <div>
+          <h1>GDPR Discovery</h1>
+          <p>Bosch hackathon prototype</p>
+        </div>
+      </div>
+      <nav class="nav">
+        <button class="nav-item active" data-view="dashboard">Dashboard</button>
+        <button class="nav-item" data-view="findings">Findings</button>
+        <button class="nav-item" data-view="review">My Review</button>
+      </nav>
+      <div class="sidebar-note">
+        <span>Human review required</span>
+        <strong>AI suggests. People decide.</strong>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Automated GDPR compliance</p>
+          <h2 id="page-title">Admin Dashboard</h2>
+        </div>
+        <div class="scan-status">
+          <span class="pulse"></span>
+          Delta scan ready
+        </div>
+      </header>
+
+      <section id="dashboard-view" class="view active">
+        <div class="kpi-grid" id="kpi-grid"></div>
+        <div class="content-grid">
+          <section class="panel">
+            <div class="panel-header">
+              <h3>Findings by Entity</h3>
+              <span>Presidio labels</span>
+            </div>
+            <div id="entity-bars" class="bars"></div>
+          </section>
+          <section class="panel">
+            <div class="panel-header">
+              <h3>Document Type Balance</h3>
+              <span>100 files each</span>
+            </div>
+            <div id="type-bars" class="bars"></div>
+          </section>
+          <section class="panel wide">
+            <div class="panel-header">
+              <h3>Review Queue</h3>
+              <span>Highest priority first</span>
+            </div>
+            <div id="priority-list" class="priority-list"></div>
+          </section>
+        </div>
+      </section>
+
+      <section id="findings-view" class="view">
+        <div class="filters">
+          <input id="search-input" type="search" placeholder="Search file, owner, entity..." />
+          <select id="type-filter">
+            <option value="all">All document types</option>
+          </select>
+          <select id="entity-filter">
+            <option value="all">All entities</option>
+          </select>
+          <select id="status-filter">
+            <option value="all">All statuses</option>
+            <option value="pending">Pending</option>
+            <option value="confirmed">Confirmed</option>
+            <option value="false_positive">False positive</option>
+            <option value="deletion_approved">Deletion approved</option>
+          </select>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>File</th>
+                <th>Type</th>
+                <th>Owner</th>
+                <th>Entities</th>
+                <th>Modified</th>
+                <th>Retention</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody id="findings-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="review-view" class="view">
+        <div class="review-layout">
+          <section class="review-list">
+            <div class="panel-header compact">
+              <h3>My Assigned Files</h3>
+              <select id="owner-select"></select>
+            </div>
+            <div id="owner-files"></div>
+          </section>
+          <section class="detail-panel">
+            <div id="file-detail" class="file-detail"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
