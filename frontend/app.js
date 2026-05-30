@@ -1,4 +1,4 @@
-const DATA_URL = "./data/gdpr_training_dataset.json";
+const DATA_URL = "http://localhost:8000/findings/";
 const ENTITY_COLUMNS = [
   "PERSON",
   "EMAIL_ADDRESS",
