@@ -58,6 +58,7 @@ function renderKpis() {
     ["Pending review", pending],
     ["High risk", highRisk],
     ["Retention exceeded", retention],
+    ["Run mode", "Fixed seed"],
   ];
 
   document.querySelector("#kpi-grid").innerHTML = kpis
@@ -230,6 +231,32 @@ function setStatus(id, status) {
   renderOwnerFiles();
 }
 
+function runDeltaScanDemo() {
+  const modifiedFiles = allRows.filter((row) => row.recommended_split === "test").slice(0, 12);
+  const newFindings = modifiedFiles.filter((row) => row.contains_personal_data === "yes").length;
+  document.querySelector("#scan-message").textContent =
+    `Delta scan demo completed: ${modifiedFiles.length} modified files checked, ${newFindings} findings already reproducible from the stored labels.`;
+}
+
+function exportFindings() {
+  const payload = findings.map((row) => ({
+    document_id: row.document_id,
+    file_name: row.file_name,
+    document_type: row.document_type,
+    owner: row.responsible_owner,
+    status: statusFor(row),
+    entities: entitiesFor(row),
+    retention_period_exceeded_3y: row.retention_period_exceeded_3y,
+  }));
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = "gdpr_findings_export.json";
+  link.click();
+  URL.revokeObjectURL(link.href);
+  document.querySelector("#scan-message").textContent = "Findings export prepared as deterministic JSON.";
+}
+
 function bindEvents() {
   document.querySelectorAll(".nav-item").forEach((button) => {
     button.addEventListener("click", () => {
@@ -237,7 +264,12 @@ function bindEvents() {
       button.classList.add("active");
       document.querySelectorAll(".view").forEach((view) => view.classList.remove("active"));
       document.querySelector(`#${button.dataset.view}-view`).classList.add("active");
-      document.querySelector("#page-title").textContent = button.textContent === "Findings" ? "Findings Workbench" : button.textContent;
+      const titles = {
+        dashboard: "Admin Overview",
+        findings: "Admin Findings",
+        review: "Employee Review",
+      };
+      document.querySelector("#page-title").textContent = titles[button.dataset.view];
     });
   });
 
@@ -246,6 +278,8 @@ function bindEvents() {
   });
 
   document.querySelector("#owner-select").addEventListener("change", renderOwnerFiles);
+  document.querySelector("#delta-scan-button").addEventListener("click", runDeltaScanDemo);
+  document.querySelector("#export-button").addEventListener("click", exportFindings);
 
   document.addEventListener("click", (event) => {
     const card = event.target.closest(".owner-file, .priority-item");
